@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "c9178d01ced56efabda6f9ba",
+  "owner": "qkhysdcbd",
+  "repo": "page-48e8287be026180607ef7658",
+  "title": "ofoNET",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "48e8287be026180607ef7658",
+      "a": "ofoNET",
+      "b": "",
+      "entity": "ofoNET",
+      "brand": "ofoNET",
+      "separator": "",
+      "path": "index.html",
+      "hash": "d0f97a256844fecd048f29236a461def2d654f1f3fb7daa2ebaff82a7615b96b",
+      "content": {
+        "keyword1": "ofoNET",
+        "keyword2": "",
+        "primary_entity": "ofoNET",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "ofoNET是专注高速稳定的网络加速服务，提供机场订阅、VPN梯子与全平台客户端下载支持，覆盖流媒体、游戏与办公场景，立即访问官网选购套餐。",
+          "AI_DESCRIPTION": "ofoNET是专注高速稳定的网络加速服务，提供机场订阅、VPN梯子与全平台客户端下载支持，覆盖流媒体、游戏与办公场景，立即访问官网选购套餐。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box;margin:0;padding:0}body{font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif;font-size:16px;line-height:1.65;background-color:#0a192f;color:#ccd6f6;overflow-x:hidden}a{color:#64ffda;text-decoration:none}a:hover{text-decoration:underline}.container{max-width:1080px;margin:0 auto;padding:0 16px}header{background-color:#112240;padding:12px 0}nav{display:flex;flex-wrap:wrap;justify-content:center;gap:8px 18px;font-size:15px}main{display:block}.hero{padding:96px 16px 72px;text-align:center}.hero h1{font-size:2.75rem;color:#64ffda;letter-spacing:1px;margin-bottom:16px;font-weight:700}.tagline{font-size:1.15rem;color:#8892b0;max-width:640px;margin:0 auto 8px}section{padding:28px 0 12px}h2{font-size:1.7rem;color:#64ffda;margin-bottom:14px;padding-bottom:8px;border-bottom:2px solid #1e4d6b}h3{font-size:1.2rem;color:#a8b2d1;margin:18px 0 8px}p,li{margin-bottom:10px;color:#ccd6f6}ul{padding-left:1.2em;margin-bottom:12px}.plans{display:flex;flex-wrap:wrap;gap:16px;justify-content:center;margin-top:12px}.plan{background:#112240;border:1px solid #233554;border-radius:8px;padding:20px;flex:1 1 260px;max-width:340px}.plan.featured{border:2px solid #64ffda}.badge{display:inline-block;background:#64ffda;color:#0a192f;font-size:12px;font-weight:700;padding:3px 8px;border-radius:4px;margin-bottom:8px}.price{font-size:1.55rem;color:#ffffff;margin:6px 0}.annual{font-size:13px;color:#8892b0;margin-bottom:10px}details{background:#112240;border:1px solid #233554;border-radius:6px;margin-bottom:12px}summary{padding:14px 16px;font-weight:600;color:#64ffda;cursor:pointer}details p{padding:0 16px 14px;color:#a8b2d1}footer{background:#020c1b;padding:32px 16px 40px;font-size:14px;color:#8892b0;margin-top:24px}footer h3{color:#64ffda;font-size:1rem;margin:0 0 8px}footer p,footer a{margin-right:10px;display:inline-block;margin-bottom:6px}.block{margin-bottom:20px}@media(max-width:640px){.hero{padding:72px 12px 48px}.hero h1{font-size:2.15rem}.plan{max-width:100%;flex-basis:100%}nav{font-size:14px}}</style><header><div class=\"container\"><nav><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#howto\">操作说明</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></nav></div></header><main><div class=\"hero container\"><h1>ofoNET</h1><p class=\"tagline\">高速机场订阅与 VPN 梯子网络加速服务官网，提供多端客户端下载与稳定节点接入。</p></div><div class=\"container\"><section id=\"about\"><h2>品牌简介</h2><p>ofoNET 是面向个人与团队用户的网络加速服务，聚焦机场订阅、跨平台客户端兼容以及低延迟专线体验。我们以自建与精选中转相结合的方式组织节点，覆盖日常跨境访问、高清流媒体与在线竞技等需求。</p><p>作为 ofoNET 官方网站，本页集中介绍套餐权益、导入方式与客户端选用建议。订阅后即可获得专属链接，在主流工具中一键更新节点，减少反复配置的成本。</p><h3>服务特点</h3><ul><li>多地区节点池，含 IPLC 与优化中转，兼顾延迟与可用性。</li><li>按套餐区分设备数与流量配额，满足单人到小团队的同时在线需求。</li><li>旗舰与团队线路强调原生流媒体解锁与游戏加速优化。</li><li>提供订阅导入说明，兼容 Clash 系、Shadowrocket、Surge、v2rayN 等常见客户端。</li></ul></section><section id=\"scenes\"><h2>使用场景</h2><p>ofoNET 将网络加速能力拆到具体场景，方便按用途选择套餐与节点类型。</p><h3>流媒体与内容访问</h3><p>观看海外影视与音乐平台时，可选用标注解锁的节点，降低缓冲并减少地区限制带来的中断。旗舰版与团队版更适合对片源完整性要求较高的用户。</p><h3>游戏与实时对战</h3><p>对延迟敏感的对局可优先走 IPLC 或游戏优化线路，减少抖动。适合需要稳定回程的玩家在晚高峰保持可玩性。</p><h3>远程办公与协作</h3><p>访问代码托管、文档与会议工具时，使用常规中转即可满足多数办公链路。团队版支持更多设备同时在线，便于共用订阅。</p><h3>学习与资料检索</h3><p>查询公开论文、课程与开发文档时，保持长连接比极致带宽更重要。建议开启客户端的规则分流，仅对必要域名走代理。</p></section><section id=\"howto\"><h2>操作说明</h2><p>完成购买后，按下列步骤即可开始使用 ofoNET 机场订阅。全程在客户端内操作，无需额外插件。</p><h3>一、获取订阅</h3><p>在官网选定套餐并完成支付后，进入用户中心复制订阅地址。请妥善保存，避免公开传播导致流量被占用。</p><h3>二、选择客户端</h3><p>Windows 与 macOS 可使用 Clash Meta 或兼容内核；Android 可用 Clash Meta 或 v2rayNG；iOS 常用 Shadowrocket、Stash 或 Quantumult X。请从各工具官方渠道安装，本站不托管安装包。</p><h3>三、导入并更新</h3><p>在客户端中选择“从 URL 导入/添加订阅”，粘贴 ofoNET 订阅链接。建议打开自动更新，以便同步最新节点与分流规则。</p><h3>四、连接与分流</h3><p>先选择延迟较低的节点测试连通，再按规则模式启用系统代理。仅对需要加速的应用走隧道，可节省套餐流量。</p></section><section id=\"plans\"><h2>套餐方案</h2><p>以下为 ofoNET 当前公开套餐，按月标注价格，年付可锁定更优惠的结算。流量每月重置，设备数按同时在线计算。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><p class=\"badge\">推荐</p><h3>旗舰版</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"clients\"><h2>客户端下载与兼容说明</h2><p>ofoNET 官方下载指引的核心是“正版客户端 + 官方订阅”。请勿使用来路不明的修改版，以免订阅泄露或设备风险。</p><h3>桌面端</h3><p>Windows 建议 Clash Verge Rev 或 Clash Meta 内核图形客户端；macOS 可选用 ClashX Meta 或 Surge。导入订阅后即可在系统代理与规则模式间切换。</p><h3>移动端</h3><p>Android 使用 Clash Meta for Android 或 v2rayNG；iOS 需在对应商店获取 Shadowrocket 等工具。同一订阅可在套餐设备上限内多端登录。</p><h3>订阅与节点</h3><p>节点覆盖港澳台、日韩新、欧美等常用区域，部分线路提供 IPLC 与原生解锁。实际延迟随运营商与时段变化，可在客户端内测速后收藏常用入口。</p><p>需要最新配置说明时，请回到本页「操作说明」或通过用户中心公告查看。所有跳转均使用页内锚点，便于在移动设备上连续阅读。</p></section><section id=\"faq\"><h2>常见问题</h2><p>以下为 ofoNET 使用过程中最常被问到的事项，展开即可阅读完整说明。</p><details><summary>ofoNET 是什么？和普通 VPN 有何不同？</summary><p>ofoNET 以机场订阅方式提供节点集合，用户可在自选客户端中切换线路，而不是绑定单一 App。相比封闭式 VPN，订阅模式更便于多设备、多协议与自定义分流，也方便按流量与端口需求升级套餐。</p></details><details><summary>如何完成官网下载与客户端安装？</summary><p>本站提供 ofoNET 订阅与配置说明，客户端安装包请前往 Clash、Shadowrocket、v2rayN 等项目的官方来源获取。安装完成后粘贴订阅 URL 即可，无需在本页提交任何表单。</p></details><details><summary>机场订阅导入失败怎么办？</summary><p>请确认链接完整、客户端支持该订阅格式，并检查系统时间是否准确。若仍失败，可在客户端手动更新一次，或更换网络后再试。旗舰与团队用户可通过优先工单反馈节点可用性。</p></details><details><summary>各套餐的设备与流量如何理解？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版每月 300GB、5 台；团队版每月 1000GB、20 台。同时在线指并发连接设备数，流量按代理实际使用量统计，每月重置。</p></details><details><summary>能否用于 Netflix 等流媒体和游戏加速？</summary><p>基础版覆盖部分基础流媒体；旗舰版与团队版强调全节点原生解锁，并提供 IPLC 游戏优化。流媒体与游戏效果受目标站点策略影响，建议收藏解锁表现稳定的节点。</p></details><details><summary>流量用尽或需要发票、对公服务如何处理？</summary><p>流量用尽后可升级套餐或等待重置。团队版面向多人协作，支持定制路由与专属客户经理沟通。具体结算与售后以用户中心展示的订单信息为准。</p></details></section></div><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"container\"><div class=\"block\"><h3>网站地图</h3><p><a href=\"#about\">品牌简介</a><a href=\"#scenes\">使用场景</a><a href=\"#howto\">操作说明</a><a href=\"#plans\">套餐方案</a><a href=\"#clients\">客户端下载</a><a href=\"#faq\">常见问题</a></p></div><div class=\"block\"><h3>广告位</h3><p>ofoNET 合作展示：线路与工具相关信息合作请通过官方渠道洽谈。本区域为文字合作位，不加载外部资源。</p></div><div class=\"block\"><h3>友情链接</h3><p><a href=\"#\">网络工具手册</a><a href=\"#\">分流规则讨论</a><a href=\"#\">客户端兼容列表</a><a href=\"#\">节点测速笔记</a></p></div><p>ofoNET 官方网站 · 机场订阅与 VPN 梯子网络加速服务 · 仅输出公开说明信息不收集本页表单数据</p></div></footer>",
+          "hash": "a75f9a9993759f6d932e22d163b5fd75933ed26d00895ceab0b16bfc7552bc35",
+          "seo": {
+            "title": "ofoNET官网 | 专业VPN加速器、梯子网络加速与多平台客户端下载",
+            "keywords": "ofoNET,ofoNET机场,ofoNET VPN,ofoNET官网,梯子,网络加速,加速器,客户端下载,机场订阅,IPLC专线,流媒体解锁",
+            "description": "ofoNET是专注高速稳定的网络加速服务，提供机场订阅、VPN梯子与全平台客户端下载支持，覆盖流媒体、游戏与办公场景，立即访问官网选购套餐。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "brnjk.cn",
+    "host": "p-06f9a5951a.brnjk.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "brnjk.cn",
+      "url": "https://brnjk.cn/",
+      "label": "HashCloud",
+      "apex": "brnjk.cn",
+      "kind": null,
+      "identity": "vrwkasw/page-b46c59f0fda0f1a787914f70"
+    },
+    {
+      "host": "lhyuxiu.com",
+      "url": "https://lhyuxiu.com/",
+      "label": "ofoNET",
+      "apex": "lhyuxiu.com",
+      "kind": null,
+      "identity": "yeqbrungek/page-4e19223f5af26a06b7f13762"
+    },
+    {
+      "host": "meiwohotel.com",
+      "url": "https://meiwohotel.com/",
+      "label": "ofoNET",
+      "apex": "meiwohotel.com",
+      "kind": null,
+      "identity": "resxpnwwj/page-1c3f70a365ebc59cd85d31a0"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "e381923585395e3b31a034fbc7e97826c3127a1598dae46dbff4db7f0aa00942",
+    "sitemap.xml": "75f1c412da29fc1ac259f6a8810444cff5a627d257ac0200ba4a559eab343555",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f4b7834f213a3541da8882e7ebcccc96e8c1584f9ccc6aecfd1cb9932bd76eaa",
+    "robots.txt": "44d9240d8bd84fb1a5c57e71e0c89ff8884a7d807863fd827d64a754a01e2125",
+    "a16d791ef7d30df2725f89dd1b82e46d.txt": "64d392e4eab4905261b6fb3d55b3ebbfd005b53498b8ed14581017f84b02d556"
+  },
+  "revision": "e5bca228ff3d13d66b472e8e07b84bc0dd1ddd22c85c39fe0f5a35efb1193dd4"
+}
